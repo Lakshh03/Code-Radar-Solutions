@@ -4,7 +4,7 @@ int main() {
     char str[100];
     
     // Asking for user input
-    printf("Enter a word: ");
+    printf(" ");
     
     // Reading the word
     scanf("%s", str);
