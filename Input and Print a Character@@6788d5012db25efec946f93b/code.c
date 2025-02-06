@@ -4,7 +4,7 @@ int main() {
     char ch;
     
     // Asking for user input
-    printf("Enter a character: ");
+    printf(" ");
     
     // Reading the character
     scanf("%c", &ch);
