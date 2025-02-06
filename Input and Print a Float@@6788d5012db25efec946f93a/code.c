@@ -10,7 +10,7 @@ int main() {
     scanf("%f", &number);
     
     // Printing the float value
-    printf(" %.2f\n", number);
+    printf("You entered: %.2f\n", number);
     
     return 0;
 }
