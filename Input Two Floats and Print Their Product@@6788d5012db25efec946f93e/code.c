@@ -4,7 +4,7 @@ int main() {
     float a, b, product;
 
     // Input two floating-point numbers
-    printf(" ");
+    printf("");
     scanf("%f %f", &a, &b);
 
     // Calculate the product
