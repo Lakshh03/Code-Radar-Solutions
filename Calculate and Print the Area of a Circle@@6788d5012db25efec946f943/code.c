@@ -11,7 +11,7 @@ int main() {
     area = 3.14 * radius * radius;
 
     // Print the area with 4 decimal places
-    printf("Area: %.4f\n", area);
+    printf("Area: %.2f\n", area);
 
     return 0;
 }
