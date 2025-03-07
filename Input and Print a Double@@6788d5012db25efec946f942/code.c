@@ -5,7 +5,7 @@ int main() {
 
     // Input a double-precision floating-point number
     printf("");
-    scanf("%lf", &num);
+    scanf("%.4f", &num);
 
     // Output the entered double
     printf("You entered: %lf\n", num);
