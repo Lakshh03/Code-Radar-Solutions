@@ -5,10 +5,10 @@ int main() {
 
     // Input a double-precision floating-point number
     printf("");
-    scanf("%.4f", &num);
+    scanf("%lf", &num);
 
     // Output the entered double
-    printf("You entered: %lf\n", num);
+    printf("You entered: %.4lf\n", num);
 
     return 0;
 }
