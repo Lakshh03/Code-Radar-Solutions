@@ -11,7 +11,7 @@ int main() {
     product = a * b;
 
     // Output the product
-    printf("Product: %.2f\n", product);
+    printf("Product: %.2f\n",product);
 
     return 0;
 }
